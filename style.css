@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.links{
+  background: gray;
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
